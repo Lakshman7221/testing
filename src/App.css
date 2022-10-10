@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.active {
+  color: white;
+  background-color: black;
+}
