@@ -7,7 +7,8 @@ const Home = () => {
     return (
         <div>
 
-            <h1>This is Home Page</h1>
+            <h1>Welcome to Home Page</h1>
+            <h3>we create beatufiul thinks</h3>
             <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, consectetur?</h5><br />
             <button onClick={clickHandler} className='btn btn-danger'>go to Dashboard</button>
         </div>
